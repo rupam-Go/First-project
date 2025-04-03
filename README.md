@@ -1,4 +1,4 @@
 # First-project
 This is My first Repossitory
-Author - Rupam Goswami
-Another Author -Sneha Ghosh
+Author - Rupam Goswami <br>
+Another Author -Sneha Ghosh <br>
